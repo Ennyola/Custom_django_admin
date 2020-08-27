@@ -1,0 +1,1 @@
+web: gunicorn custom_admin_interface.wsgi
